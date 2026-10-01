@@ -1,4 +1,4 @@
-## David Gallart Montañana
+## David Gallart
 
 Desarrollador backend de **Valencia, España**
 
