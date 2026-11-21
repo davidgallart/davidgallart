@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="images/name.svg" alt="David Gallart" width="600">
+  <img src="images/name.svg" alt="David Gallart" width="733">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;from+Valencia,+Spain&color=F87171&size=24&font=Poppins&width=430&height=44&vCenter=true&center=true&duration=3000&pause=800" alt="Web Developer from Valencia, Spain" width="430">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;from+Valencia,+Spain&color=F87171&size=24&font=Poppins&width=430&height=44&vCenter=true&center=true&duration=5000&pause=800" alt="Web Developer from Valencia, Spain" width="430">
 </p>
 
 <p align="center">
